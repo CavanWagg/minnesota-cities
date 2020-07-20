@@ -1,0 +1,11 @@
+{
+  "name": "minnesota-cities",
+  "version": "1.0.1",
+  "description": "List of cities in Minnesota",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CavanWagg",
+  "license": "MIT"
+}
