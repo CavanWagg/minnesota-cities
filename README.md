@@ -4,7 +4,7 @@
 ```
 $ npm install minnesota-cities
 ```
-list from (https://www.alphalists.com/list/alphabetical-list-minnesota-cities)
+list from https://www.alphalists.com/list/alphabetical-list-minnesota-cities
 
 ## Usage
 
