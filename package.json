@@ -1,6 +1,6 @@
 {
   "name": "minnesota-cities",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "List of cities in Minnesota",
   "main": "index.js",
   "scripts": {
